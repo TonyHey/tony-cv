@@ -21,12 +21,12 @@
 具有较强主观能动性。乐于与团队融洽沟通，共同协商解决问题。大学本科软件工程为全英文授课，具备一定的基本功和英语能力
 
 精通HTML、CSS、JS<br/>
-熟练Git、LESS、SAPUI5、jQuery、ES6、React等<br/>
-熟悉Gulp、Webpack、NodeJS等
+熟练Git、LESS、jQuery、ES6、React、Webpack等<br/>
+熟悉Gulp、SAPUI5、NodeJS等
 
 #### 项目经历
 
-##### 上线了
+##### [上线了](https://www.sxl.cn)
   * 上线了小程序主体/PC-Web编辑器<br/>
   `技术栈：ES6、React、React-Router、Redux、ImmutableJS、TypeScript、RxJS、微信小程序等`
     * 商家管理小程序(改版)：门店商家管理工具小程序重构改版, 用户信息详情、行为打点统计数据展示及分析
@@ -37,8 +37,8 @@
     * 上线了网站/小程序Debug，技术支持，协助其他同事开发、解决问题，指导新同事熟悉项目结构、业务逻辑
     * 未完待续。。。
 
-##### 途风网
-  * 途风网英文站移动端(改版)<br/>
+##### [途风网](https://cn.toursforfun.com)
+  * [途风网英文站移动端(改版)](https://m.tours4fun.com)<br/>
     `技术栈: ES6、React、Redux、React-Router、Webpack、service-worker、NodeJS等`
     * React相关技术、phonegap开发新版途风网英文站移动端webApp
     * 项目架构，webpack配置，基础工具方法编码。服务器渲染&同构直出
@@ -47,7 +47,7 @@
     * 协助其他同事开发，解决问题·
     * 项目持续迭代开发/维护，解决各种bug及优化
 
-  * 途风网英文站PC端<br/>
+  * [途风网英文站PC端](https://www.tours4fun.com)<br/>
     `技术栈: jQuery、SeaJS等`
     * 独立完成local-experts, landing-page, new-continent等项目的前端开发
     * 持续迭代开发/维护, 修复解决若干bug
