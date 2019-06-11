@@ -22,7 +22,7 @@
 
 精通HTML、CSS、JS<br/>
 熟练Git、LESS、jQuery、ES6、React、Redux、Webpack、微信小程序等<br/>
-熟悉Gulp、SAPUI5、NodeJS等
+熟悉Gulp、NodeJS、Nginx等
 
 ##### 工作/项目经历
 
@@ -35,8 +35,8 @@
     * 上线了&猪八戒联合: 猪八戒云站iframe嵌入上线了网站，更新优化上线了网站适配猪八戒云站
     * 第三方平台快速注册小程序：PC-Web编辑器上线了快速注册小程序账户以及小程序管理
     * 上线了网站/小程序Debug，技术支持，协助其他同事开发、解决问题，指导新同事熟悉项目结构、业务逻辑、code review等
-    * 勤勤恳恳、任劳任怨，[strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn) 包括且不限于以上简略提到的各类型小程序、上线了/strikingly网站/app，几乎所有业务产品都搞/接盘过。
-    * 未完待续。。。
+    * [strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn) 包括且不限于以上简略提到的各类型小程序、上线了/strikingly网站/app，几乎所有业务产品都搞/接盘过。
+    * 勤勤恳恳、任劳任怨，每次review都是A。未完待续。。。
 
 ###### [途风网](https://cn.toursforfun.com)
   * [途风网英文站移动端(改版)](https://m.tours4fun.com)<br/>
