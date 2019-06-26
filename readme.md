@@ -21,14 +21,14 @@
 具有较强主观能动性。乐于与团队融洽沟通，共同协商解决问题。大学本科软件工程为全英文授课，具备一定的基本功和英语能力
 
 精通HTML、CSS、JS<br/>
-熟练Git、LESS、jQuery、ES6、React、Redux、Webpack、微信小程序等<br/>
-熟悉Gulp、NodeJS、Nginx等
+熟练Git、LESS、jQuery、ES6、React、Redux、Webpack、NodeJS、微信小程序等<br/>
+熟悉Gulp、Nginx等
 
 ##### 工作/项目经历
 
 ###### [strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn)
   * 上线了小程序主体/PC-Web编辑器<br/>
-  `技术栈：ES6、React、React-Router、Redux、ImmutableJS、TypeScript、RxJS、微信小程序等`
+  `技术栈：ES6、React、React-Router、Redux、TypeScript、微信小程序等`
     * 商家管理小程序(改版)：门店商家管理工具小程序重构改版, 用户信息详情、行为打点统计数据展示及分析、通知/聊天系统等
     * 电商/门店多人拼团：PC-Web编辑器商户商品、商户拼团订单管理、小程序预览，门店商家后台管理小程序商户拼团订单管理
     * 门店小程序会员卡：更新门店小程序会员卡开卡、领卡、激活方式
