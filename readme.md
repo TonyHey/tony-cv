@@ -24,7 +24,7 @@
 熟练Git、LESS、jQuery、ES6+、React、Redux、Webpack、NodeJS、微信小程序等<br/>
 熟悉Gulp、Nginx等
 
-##### 工作/项目经历
+##### 搬砖/项目经历
 
 ###### [strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn)
   * 上线了小程序主体/PC-Web编辑器<br/>
