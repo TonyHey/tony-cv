@@ -1,41 +1,41 @@
 ## [何建华-前端开发工程师-成都](https://github.com/TonyHey/tony-cv)
 
-**姓名**: 何建华&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**性别**: 男&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**年龄**: 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**民族**: 汉<br/>
+#### 个人信息
+**姓名:** 何建华&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**性别:** 男&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**年龄:** 27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**民族:** 汉<br/>
 **手机号**: <a href="tel:18628139960">18628139960</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**邮箱**: tonys9204@gmail.com<br/>
-**毕业学校**: 泰国清迈大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**毕业时间**: 2015年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**专业**: 软件工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**学历**: 本科
+**邮箱:** <a href="mailto:tonys9204@gmail.com">tonys9204@gmail.com</a><br/>
+**毕业学校:** 泰国清迈大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**毕业时间:** 2015年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**专业:** 软件工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**学历:** 本科
 
-##### 工作经历
-| 公司名称 | 在职时间 | 在职岗位 | 所属部门 |
-| :-: | :-: | :-: | :-: |
-| 上线了 | 2018.05 - 2019.08 | **前端开发** | 成都技术部 |
-| 携程旗下-途风网 | 2016.09 - 2018.05 | **前端开发** | 途风网英文站 |
-| 四平软件 | 2015.06 - 2016.09 | **前端开发** | HANA |
-
-##### 自我评价
+#### 自我评价
 具有较强主观能动性。乐于与团队融洽沟通，共同协商解决问题。大学本科软件工程为全英文授课，具备一定的基本功和英语能力<br/>
-精通HTML、CSS、JS<br/>
-熟练Git、LESS、jQuery、ES6+、React、Redux、Webpack、NodeJS、微信小程序等<br/>
+
+精通HTML、CSS、JS等<br/>
+熟练Git、LESS、jQuery、ES6+、React、Redux、TypeScript、Webpack、NodeJS、微信小程序等<br/>
 熟悉Gulp、Nginx等
 
-##### 搬砖/项目经历
-###### [strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn) `技术栈：ES6、React、React-Router、Redux、TypeScript、Webpack、微信小程序等`
+#### 工作/项目经历
+##### [strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn)
+**在职时间:** 2018.05 - 2019.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**部门:** 成都技术部<br/>
+**技术栈:** `ES6、React、React-Router、Redux、TypeScript、Webpack、微信小程序等`
   * 上线了小程序主体/PC-Web编辑器<br/>
     * 商家管理小程序(改版)：门店商家管理工具小程序重构改版, 用户信息详情、行为打点统计数据展示及分析、通知/聊天系统等
     * 电商/门店多人拼团：PC-Web编辑器商户商品、商户拼团订单管理、小程序预览，门店商家后台管理小程序商户拼团订单管理
     * 上线了&猪八戒联合: 猪八戒云站iframe嵌入上线了网站，更新优化上线了网站适配猪八戒云站
+    * 第三方平台快速注册小程序：PC-Web编辑器上线了快速注册小程序账户以及小程序管理
     * 上线了登录系统：新增手机号注册&登录&找回密码、老帐号绑定手机号&完善个人信息、邮箱/手机注册A/B testing等
     * [strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn) 包括且不限于以上简略提到的各类型小程序、上线了/strikingly网站/APP，几乎所有业务产品都搞/接盘过。哪里有困难哪里就有我
     * 上线了网站/小程序Debug，技术支持，协助其他同事开发、解决问题，指导新同事熟悉项目结构、业务逻辑、code review等
     * 勤勤恳恳、任劳任怨，每次review考核都是A。。。
 
-###### [途风网](https://cn.toursforfun.com) `技术栈: jQuery、SeaJS、ES6、React、Redux、React-Router、Webpack、service-worker、NodeJS等`
+##### [携程旗下-途风网](https://cn.toursforfun.com)
+**在职时间:** 2016.09 - 2018.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**部门:** 途风网英文站<br/>
+**技术栈:** `jQuery、SeaJS、ES6、React、Redux、React-Router、Webpack、service-worker、NodeJS等`
   * [途风网英文站移动端(重构改版)](https://m.tours4fun.com)<br/>
     * React相关技术、phonegap开发新版途风网英文站移动端webApp
     * 项目架构，webpack配置，基础工具方法编码。服务器渲染&同构直出
@@ -49,7 +49,9 @@
     * 持续迭代开发/维护, 修复解决若干bug
     * PC端项目代码优化，模块化及工程化，使项目更清晰和易维护
 
-###### [四平软件](http://www.sipingsoft.com) `技术栈: SAPUI5、jQuery、HereMap、D3.js、qUnitJS等`
+##### [四平软件](http://www.sipingsoft.com)
+**在职时间:** 2015.06 - 2019.09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**部门:** HANA<br/>
+**技术栈:** `SAPUI5、jQuery、HereMap、D3.js、qUnitJS等`
   * SAP PPM: 企业项目的执行监控和管理，以项目为主线将产品研发的阶段、任务、时间、人员等合理的组织起来的SPA富表单Web应用。包含众多表单 、GanttChart等模块
     * 利用 SAPUI5 XML View重构页面
     * 与后端同事协作开发&调试，确定数据逻辑，以及前后端交互的效率，数据结构转换适配等
