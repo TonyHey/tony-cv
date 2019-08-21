@@ -50,7 +50,7 @@
     * PC端项目代码优化，模块化及工程化，使项目更清晰和易维护
 
 ##### [四平软件](http://www.sipingsoft.com)
-**在职时间:** 2015.06 - 2019.09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**部门:** HANA<br/>
+**在职时间:** 2015.06 - 2016.09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**部门:** HANA<br/>
 **技术栈:** `SAPUI5、jQuery、HereMap、D3.js、qUnitJS等`
   * SAP PPM: 企业项目的执行监控和管理，以项目为主线将产品研发的阶段、任务、时间、人员等合理的组织起来的SPA富表单Web应用。包含众多表单 、GanttChart等模块
     * 利用 SAPUI5 XML View重构页面
