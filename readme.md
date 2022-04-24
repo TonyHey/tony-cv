@@ -1,27 +1,32 @@
-## [何建华-前端开发工程师-成都](https://github.com/TonyHey/tony-cv)
-
 #### 个人信息
-**姓名:** 何建华&nbsp;&nbsp;&nbsp;&nbsp;
-**性别:** 男&nbsp;&nbsp;&nbsp;&nbsp;
-**出生年月:** 1992.04&nbsp;&nbsp;&nbsp;&nbsp;
-**民族:** 汉<br/>
-**手机号**: <a href="tel:18628139960">18628139960</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**姓名:** 何建华&nbsp;&nbsp;
+**性别:** 男&nbsp;&nbsp;
+**出生年月:** 1992.04&nbsp;&nbsp;
+**民族:** 汉&nbsp;&nbsp;
 **邮箱:** <a href="mailto:tonys9204@gmail.com">tonys9204@gmail.com</a><br/>
-**毕业学校:** 泰国清迈大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**毕业时间:** 2015年&nbsp;&nbsp;&nbsp;&nbsp;
-**专业:** 软件工程&nbsp;&nbsp;&nbsp;&nbsp;
-**学历:** 本科
+**毕业学校:** 泰国清迈大学&nbsp;&nbsp;
+**毕业时间:** 2015年12月&nbsp;&nbsp;
+**专业:** 软件工程&nbsp;&nbsp;
+**学历:** 本科&nbsp;&nbsp;
+**手机号**: <a href="tel:18628139960">18628139960</a>&nbsp;&nbsp;
 
 #### 自我评价
 从事前端工作很多年，经验丰富。具有较强主观能动性，乐于与团队融洽沟通，共同协商解决问题。大学本科软件工程(英文授课)，具备一定的基本功和英语能力<br/>
 
 熟练 HTML、CSS、JS、ES6+、React、Redux、LESS、SASS、jQuery等<br/>
-熟悉 微信小程序开发流程、TypeScript、Webpack、NodeJS、Git等<br/>
-了解 Nginx等
+熟悉 微信小程序开发、Webpack、TypeScript、NodeJS、Git、Nginx等
 
 #### 工作/项目经历
+**[百词斩](https://www.baicizhan.com)**&nbsp;&nbsp;&nbsp;&nbsp;
+**在职时间:** 2021.07-至今&nbsp;&nbsp;&nbsp;&nbsp;
+**岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+**技术栈:** `ES6+、React、React-Router、Redux、TypeScript、微信小程序等`
+  * 百词斩学习业务线owner
+  * 百词斩页面创作平台
+
 **[西瓜创客](https://www.xiguacity.cn)**&nbsp;&nbsp;&nbsp;&nbsp;
-**在职时间:** 2019.09-至今&nbsp;&nbsp;&nbsp;&nbsp;
+**在职时间:** 2019.09-2021.07&nbsp;&nbsp;&nbsp;&nbsp;
 **岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 **技术栈:** `ES6+、React、React-Router、Redux、TypeScript、微信小程序等`
