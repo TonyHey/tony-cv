@@ -17,6 +17,15 @@
 熟悉 微信小程序开发、Webpack、TypeScript、NodeJS、Git、Nginx等
 
 #### 工作/项目经历
+**[安心筑](https://www.axzo.cn)**&nbsp;&nbsp;&nbsp;&nbsp;
+**在职时间:** 2023.07-2025.11&nbsp;&nbsp;&nbsp;&nbsp;
+**岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+**技术栈:** `ES6+、vue2、vue3`
+  * 施工任务域、记工域等业务开发
+  * 性能优化、疑难杂症等问题解决
+  * 组件库建设、脚本工具、业务项目登录插件等效率方案输出
+
 **[百词斩](https://www.baicizhan.com)**&nbsp;&nbsp;&nbsp;&nbsp;
 **在职时间:** 2021.07-2022.11&nbsp;&nbsp;&nbsp;&nbsp;
 **岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;
