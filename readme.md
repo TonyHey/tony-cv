@@ -15,7 +15,7 @@
 
 #### 工作/项目经历
 **[安心筑](https://www.axzo.cn)**&nbsp;&nbsp;&nbsp;&nbsp;
-**在职时间:** 2023.07-2025.11&nbsp;&nbsp;&nbsp;&nbsp;
+**在职时间:** 2023.07-至今&nbsp;&nbsp;&nbsp;&nbsp;
 **岗位:** 前端开发&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 **技术栈:** `ES6+、vue2、vue3`
